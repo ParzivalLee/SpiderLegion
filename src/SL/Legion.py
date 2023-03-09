@@ -19,7 +19,8 @@ class Legion:
         # 根据信息生成爬虫
         self.generateSpiders()
 
-    def generateSpiders(self)
+    def generateSpiders(self):
+        pass
        
     # 开始任务
     def start(self):
